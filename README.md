@@ -5,10 +5,6 @@ My name is Andrew Ly and I am a recent graduate from App Academy. With a previou
 
  Feel free to take a look through my GitHub to see what fun and exciting projects that I've been working on!
 
- <span style= color:gray>For those who are curious, my favorite pokemon is Shuckle! </span>
-
- ![Shuckle](https://www.pokencyclopedia.info/sprites/gen5/ani_black-white_shiny/ani_bw-S_213.gif) <span style= color:gray>
-
 ## Contact Me!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-ly205/)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrew.ly205@gmail.com)
@@ -28,3 +24,8 @@ My name is Andrew Ly and I am a recent graduate from App Academy. With a previou
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+ <span style= color:gray>For those who are curious, my favorite pokemon is Shuckle! </span>
+
+ ![Shuckle](https://www.pokencyclopedia.info/sprites/gen5/ani_black-white_shiny/ani_bw-S_213.gif) <span style= color:gray>
