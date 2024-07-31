@@ -26,6 +26,6 @@ My name is Andrew Ly and I'm a Software Engineer graduated from App Academy. Wit
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
- <span style= color:gray>For those who are curious, my favorite pokemon is Shuckle! </span>
+ <span style= color:gray>For those who are curious, my favorite pokemon is Shiny Shuckle! </span>
 
  ![Shuckle](https://www.pokencyclopedia.info/sprites/gen5/ani_black-white_shiny/ani_bw-S_213.gif) <span style= color:gray>
