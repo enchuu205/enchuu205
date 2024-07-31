@@ -1,7 +1,7 @@
 ![github-intro-banner](./Intro%20Banner.png)
 
 ## About... Me !!!
-My name is Andrew Ly and I am a recent graduate from App Academy. With a previous background in engineering, I've always been intrigued by the challenge of problem-solving and the satisfaction of creating innovative solution. Excited to embark on my journey as full stack software engineer!
+My name is Andrew Ly and I'm a Software Engineer graduated from App Academy. With a previous background in engineering, I've always been intrigued by the challenge of problem-solving and the satisfaction of creating innovative solution. Excited to embark on my journey as full stack software engineer!
 
  Feel free to take a look through my GitHub to see what fun and exciting projects that I've been working on!
 
